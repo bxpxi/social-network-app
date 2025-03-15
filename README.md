@@ -9,3 +9,5 @@ Social Network App with Java (JavaFX)
 
 -Password encryption
 
+-Paging
+
